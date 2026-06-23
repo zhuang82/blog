@@ -187,7 +187,9 @@ links_settings:
   # Available values: block | inline
   layout: block
 
+# 友链
 links:
+  Inna☂琳: https://inna.live
   #Title: https://example.com
 
 # Table of Contents in the Sidebar
