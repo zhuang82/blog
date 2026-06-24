@@ -116,3 +116,9 @@ order_by: -date
 icon: 
 autodiscovery: true
 template:
+
+excerpt:
+  depth: 10 
+  excerpt_excludes: []
+  more_excludes: []
+  hideWholePostExcerpts: true
